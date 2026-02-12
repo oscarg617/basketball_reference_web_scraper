@@ -91,6 +91,24 @@ class HTTPService:
     def play_by_play(self, home_team, day, month, year):
         add_0_if_needed = lambda s: "0" + s if len(s) == 1 else s
 
+        SEASON_2002_START_YEAR = 2001
+        SEASON_2002_START_MONTH = 10
+        SEASON_2002_START_DAY = 30
+
+        SEASON_2015_START_YEAR = 2014
+        SEASON_2015_START_MONTH = 10
+        SEASON_2015_START_DAY = 28
+
+        if home_team == Team.CHARLOTTE_HORNETS:
+            if year < SEASON_2002_START_YEAR or (year == SEASON_2002_START_YEAR and month < SEASON_2002_START_MONTH) or \
+               (year == SEASON_2002_START_YEAR and month == SEASON_2002_START_MONTH and day < SEASON_2002_START_DAY):
+                home_team = Team.CHARLOTTE_HORNETS_OLD
+            
+        if home_team == Team.CHARLOTTE_BOBCATS:
+            if year > SEASON_2015_START_YEAR or (year == SEASON_2015_START_YEAR and month > SEASON_2015_START_MONTH) or \
+               (year == SEASON_2015_START_YEAR and month == SEASON_2015_START_MONTH and day >= SEASON_2015_START_DAY):
+                home_team = Team.CHARLOTTE_HORNETS
+
         # the hard-coded `0` in the url assumes we always take the first match of the given date and team.
         url = "{BASE_URL}/boxscores/pbp/{year}{month}{day}0{team_abbr}.html".format(
             BASE_URL=HTTPService.BASE_URL, year=year, month=add_0_if_needed(str(month)), day=add_0_if_needed(str(day)),

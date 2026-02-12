@@ -1032,15 +1032,53 @@ class PlayByPlayRow:
     @property
     def away_team_play_description(self):
         if 6 == len(self.html):
-            return self.html[1].text_content().strip()
-
+            col = self.html[1]
+            
+            result = []
+            
+            # Start with initial text
+            if col.text:
+                result.append(col.text)
+            
+            # Iterate through all child elements
+            for elem in col:
+                if elem.tag == 'a':
+                    # Add link with href
+                    link_text = elem.text_content().strip()
+                    href = elem.get('href')
+                    result.append(f"{link_text} {{{href}}}")
+                
+                # Add tail text (text after this element)
+                if elem.tail:
+                    result.append(elem.tail)
+            
+            return ''.join(result).strip()
         return ''
 
     @property
     def home_team_play_description(self):
         if 6 == len(self.html):
-            return self.html[5].text_content().strip()
-
+            col = self.html[5]
+            
+            result = []
+            
+            # Start with initial text
+            if col.text:
+                result.append(col.text)
+            
+            # Iterate through all child elements
+            for elem in col:
+                if elem.tag == 'a':
+                    # Add link with href
+                    link_text = elem.text_content().strip()
+                    href = elem.get('href')
+                    result.append(f"{link_text} {{{href}}}")
+                
+                # Add tail text (text after this element)
+                if elem.tail:
+                    result.append(elem.tail)
+            
+            return ''.join(result).strip()
         return ''
 
     @property

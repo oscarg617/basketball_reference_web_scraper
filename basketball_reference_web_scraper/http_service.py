@@ -1,7 +1,7 @@
 import requests
 from lxml import html
 
-from basketball_reference_web_scraper.data import TEAM_TO_TEAM_ABBREVIATION, TeamTotal, PlayerData
+from basketball_reference_web_scraper.data import TEAM_TO_TEAM_ABBREVIATION, TeamTotal, PlayerData, Team
 from basketball_reference_web_scraper.errors import InvalidDate, InvalidPlayerAndSeason
 from basketball_reference_web_scraper.html import DailyLeadersPage, PlayerSeasonBoxScoresPage, PlayerSeasonTotalTable, \
     PlayerAdvancedSeasonTotalsTable, PlayByPlayPage, SchedulePage, BoxScoresPage, DailyBoxScoresPage, SearchPage, \

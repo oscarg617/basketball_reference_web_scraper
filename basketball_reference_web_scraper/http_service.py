@@ -89,6 +89,7 @@ class HTTPService:
         return self.parser.parse_player_season_box_scores(box_scores=page.playoff_box_scores_table.rows, include_inactive_games=include_inactive_games)
 
     def play_by_play(self, home_team, day, month, year):
+        print('a')
         add_0_if_needed = lambda s: "0" + s if len(s) == 1 else s
 
         SEASON_2002_START_YEAR = 2001
@@ -99,6 +100,7 @@ class HTTPService:
         SEASON_2015_START_MONTH = 10
         SEASON_2015_START_DAY = 28
 
+        print('b')
         if home_team == Team.CHARLOTTE_HORNETS:
             if year < SEASON_2002_START_YEAR or (year == SEASON_2002_START_YEAR and month < SEASON_2002_START_MONTH) or \
                (year == SEASON_2002_START_YEAR and month == SEASON_2002_START_MONTH and day < SEASON_2002_START_DAY):
@@ -114,7 +116,10 @@ class HTTPService:
             BASE_URL=HTTPService.BASE_URL, year=year, month=add_0_if_needed(str(month)), day=add_0_if_needed(str(day)),
             team_abbr=TEAM_TO_TEAM_ABBREVIATION[home_team]
         )
+        
+        print('c')
         response = requests.get(url=url)
+        print('d')
         response.raise_for_status()
 
         page = PlayByPlayPage(html=html.fromstring(response.content))

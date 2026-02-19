@@ -117,6 +117,9 @@ class HTTPService:
             team_abbr=TEAM_TO_TEAM_ABBREVIATION[home_team]
         )
         
+        r = requests.get('https://httpbin.org/headers')
+        print(r.json())
+        
         print('c')
         response = requests.get(
             url=url, 

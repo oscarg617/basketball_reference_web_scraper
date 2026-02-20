@@ -117,22 +117,7 @@ class HTTPService:
             team_abbr=TEAM_TO_TEAM_ABBREVIATION[home_team]
         )
         
-        r = requests.get('https://httpbin.org/headers')
-        print(r.json())
-        
-        print('c')
-        response = requests.get(
-            url=url, 
-            headers={
-                'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
-                'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
-                'Accept-Language': 'en-US,en;q=0.5',
-                'Accept-Encoding': 'gzip, deflate, br',
-                'Connection': 'keep-alive',
-                'Referer': 'https://www.basketball-reference.com/',
-            }
-        )
-        print('d')
+        response = requests.get(url=url)
         response.raise_for_status()
 
         page = PlayByPlayPage(html=html.fromstring(response.content))
@@ -182,20 +167,8 @@ class HTTPService:
             BASE_URL=HTTPService.BASE_URL,
             season_end_year=season_end_year
         )
-        
-        r = requests.get('https://httpbin.org/headers')
-        print(r.json())
 
-        response = requests.get(
-            url=url,
-            headers={
-                'Accept': '*/*',
-                'Accept-Encoding': 'gzip, deflate',
-                'Host': 'httpbin.org',
-                'User-Agent':'python-requests/2.32.3',
-                'X-Amzn-Trace-Id': 'Root=1-69979b9b-14a299c02296ed462a6c1903',
-            }
-        )
+        response = requests.get(url=url)
 
         response.raise_for_status()
 

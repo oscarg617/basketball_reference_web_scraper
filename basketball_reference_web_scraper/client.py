@@ -216,29 +216,23 @@ def team_box_scores(day, month, year, output_type=None, output_file_path=None, o
 def play_by_play(home_team, day, month, year, output_type=None, output_file_path=None, output_write_option=None,
                  json_options=None):
     try:
-        print(1)
         http_service = HTTPService(parser=ParserService())
-        print(2)
         values = http_service.play_by_play(home_team=home_team, day=day, month=month, year=year)
-        print(3)
     except requests.exceptions.HTTPError as http_error:
         if http_error.response.status_code == requests.codes.not_found:
             raise InvalidDate(day=day, month=month, year=year)
         else:
             raise http_error
-    print(4)
     options = OutputOptions.of(
         file_options=FileOptions.of(path=output_file_path, mode=output_write_option),
         output_type=output_type,
         json_options=json_options,
         csv_options={"column_names": PLAY_BY_PLAY_COLUMN_NAMES}
     )
-    print(5)
     output_service = OutputService(
         json_writer=JSONWriter(value_formatter=BasketballReferenceJSONEncoder),
         csv_writer=CSVWriter(value_formatter=format_value)
     )
-    print(6)
     return output_service.output(data=values, options=options)
 
 

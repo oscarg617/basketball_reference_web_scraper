@@ -529,7 +529,14 @@ class PlayByPlaysParser:
         result = []
         for play_by_play in play_by_plays:
             if play_by_play.is_start_of_period:
-                current_period += 1
+                # Only increment if this is genuinely a new period.
+                # BBRef sometimes emits duplicate/stale period headers (e.g. a "3rd Q"
+                # header appearing inside the 4th quarter section). Guard against this
+                # by checking the header text — if it matches a period <= current, skip it.
+                header_text = play_by_play.timestamp_cell.text_content().strip().lower()
+                candidate_period = self._parse_period_from_header(header_text)
+                if candidate_period is None or candidate_period > current_period:
+                    current_period += 1
             elif play_by_play.has_play_by_play_data:
                 result.append(self.format_data(
                     current_period=current_period,
@@ -538,6 +545,20 @@ class PlayByPlaysParser:
                     home_team=home_team,
                 ))
         return result
+
+
+    def _parse_period_from_header(self, header_text: str) -> int | None:
+        """Parse the period number from a BBRef period header like '1st q', '2nd q', '3rd ot' etc."""
+        import re
+        # Matches: "1st q", "2nd q", "3rd q", "4th q", "1st ot", "2nd ot" etc.
+        match = re.match(r'(\d+)(?:st|nd|rd|th)', header_text)
+        if not match:
+            return None
+        n = int(match.group(1))
+        if 'ot' in header_text:
+            return 4 + n  # OT1 = 5, OT2 = 6, etc.
+        return n
+
 
     def format_data(self, current_period, play_by_play, away_team, home_team):
         return {

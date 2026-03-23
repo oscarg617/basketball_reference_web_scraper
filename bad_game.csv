@@ -1,0 +1,482 @@
+period,period_type,remaining_seconds_in_period,relevant_team,away_team,home_team,away_score,home_score,description
+1,QUARTER,717.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,0,0,Personal foul by C. Sexton {/players/s/sextoco01.html} (drawn by S. Mykhailiuk {/players/m/mykhasv01.html})
+1,QUARTER,707.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,0,0,L. Markkanen {/players/m/markkla01.html} misses 2-pt layup from 4 ft
+1,QUARTER,706.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,0,0,Offensive rebound by L. Markkanen {/players/m/markkla01.html}
+1,QUARTER,706.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,2,0,L. Markkanen {/players/m/markkla01.html} makes 2-pt layup at rim
+1,QUARTER,684.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,2,0,M. Bridges {/players/b/bridgmi02.html} misses 3-pt jump shot from 27 ft
+1,QUARTER,681.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,2,0,Defensive rebound by J. Nurkić {/players/n/nurkiju01.html}
+1,QUARTER,673.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,2,0,Turnover by K. George {/players/g/georgke01.html} (lost ball; steal by R. Kalkbrenner {/players/k/kalkbry01.html})
+1,QUARTER,668.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,2,0,K. Knueppel {/players/k/knuepko01.html} misses 2-pt layup from 3 ft (block by S. Mykhailiuk {/players/m/mykhasv01.html})
+1,QUARTER,665.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,2,0,Defensive rebound by T. Hendricks {/players/h/hendrta01.html}
+1,QUARTER,664.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,2,0,Personal foul by S. James {/players/j/jamessi01.html} (drawn by L. Markkanen {/players/m/markkla01.html})
+1,QUARTER,658.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,4,0,L. Markkanen {/players/m/markkla01.html} makes 2-pt dunk from 2 ft (assist by K. George {/players/g/georgke01.html})
+1,QUARTER,644.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,4,0,M. Bridges {/players/b/bridgmi02.html} misses 2-pt jump shot from 4 ft
+1,QUARTER,642.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,4,0,Defensive rebound by S. Mykhailiuk {/players/m/mykhasv01.html}
+1,QUARTER,637.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,4,0,T. Hendricks {/players/h/hendrta01.html} misses 3-pt jump shot from 25 ft
+1,QUARTER,637.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,4,0,Defensive rebound by Team
+1,QUARTER,627.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,4,3,C. Sexton {/players/s/sextoco01.html} makes 3-pt jump shot from 26 ft
+1,QUARTER,611.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,4,3,S. Mykhailiuk {/players/m/mykhasv01.html} misses 3-pt jump shot from 26 ft
+1,QUARTER,608.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,4,3,Defensive rebound by R. Kalkbrenner {/players/k/kalkbry01.html}
+1,QUARTER,603.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,4,3,K. Knueppel {/players/k/knuepko01.html} misses 2-pt layup from 2 ft
+1,QUARTER,601.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,4,3,Defensive rebound by J. Nurkić {/players/n/nurkiju01.html}
+1,QUARTER,595.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,4,3,K. George {/players/g/georgke01.html} misses 2-pt layup from 4 ft
+1,QUARTER,595.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,4,3,Defensive rebound by K. Knueppel {/players/k/knuepko01.html}
+1,QUARTER,584.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,4,6,K. Knueppel {/players/k/knuepko01.html} makes 3-pt jump shot from 25 ft (assist by C. Sexton {/players/s/sextoco01.html})
+1,QUARTER,572.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,4,6,L. Markkanen {/players/m/markkla01.html} misses 2-pt layup from 4 ft
+1,QUARTER,567.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,4,6,Defensive rebound by M. Bridges {/players/b/bridgmi02.html}
+1,QUARTER,561.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,4,9,S. James {/players/j/jamessi01.html} makes 3-pt jump shot from 25 ft (assist by K. Knueppel {/players/k/knuepko01.html})
+1,QUARTER,547.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,7,9,L. Markkanen {/players/m/markkla01.html} makes 3-pt jump shot from 28 ft (assist by S. Mykhailiuk {/players/m/mykhasv01.html})
+1,QUARTER,538.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,7,9,Personal foul by J. Nurkić {/players/n/nurkiju01.html} (drawn by C. Sexton {/players/s/sextoco01.html})
+1,QUARTER,526.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,7,9,Turnover by R. Kalkbrenner {/players/k/kalkbry01.html} (out of bounds lost ball)
+1,QUARTER,516.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,7,9,S. Mykhailiuk {/players/m/mykhasv01.html} misses 3-pt jump shot from 27 ft
+1,QUARTER,514.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,7,9,Offensive rebound by T. Hendricks {/players/h/hendrta01.html}
+1,QUARTER,514.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,7,9,Personal foul by K. Knueppel {/players/k/knuepko01.html} (drawn by T. Hendricks {/players/h/hendrta01.html})
+1,QUARTER,508.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,9,9,K. George {/players/g/georgke01.html} makes 2-pt layup from 2 ft (assist by J. Nurkić {/players/n/nurkiju01.html})
+1,QUARTER,496.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,9,9,Turnover by C. Sexton {/players/s/sextoco01.html} (dbl dribble)
+1,QUARTER,489.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,9,9,L. Markkanen {/players/m/markkla01.html} misses 3-pt jump shot from 27 ft
+1,QUARTER,485.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,9,9,Defensive rebound by R. Kalkbrenner {/players/k/kalkbry01.html}
+1,QUARTER,475.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,9,12,S. James {/players/j/jamessi01.html} makes 3-pt jump shot from 25 ft (assist by M. Bridges {/players/b/bridgmi02.html})
+1,QUARTER,463.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,11,12,K. George {/players/g/georgke01.html} makes 2-pt jump shot from 4 ft
+1,QUARTER,451.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,11,12,K. Knueppel {/players/k/knuepko01.html} misses 3-pt jump shot from 26 ft
+1,QUARTER,447.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,11,12,Defensive rebound by J. Nurkić {/players/n/nurkiju01.html}
+1,QUARTER,431.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,11,12,K. George {/players/g/georgke01.html} misses 2-pt jump shot from 12 ft
+1,QUARTER,427.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,11,12,Defensive rebound by S. James {/players/j/jamessi01.html}
+1,QUARTER,421.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,11,12,C. Sexton {/players/s/sextoco01.html} misses 3-pt jump shot from 26 ft
+1,QUARTER,418.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,11,12,Defensive rebound by J. Nurkić {/players/n/nurkiju01.html}
+1,QUARTER,408.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,13,12,L. Markkanen {/players/m/markkla01.html} makes 2-pt layup from 4 ft (assist by K. George {/players/g/georgke01.html})
+1,QUARTER,408.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,13,12,Charlotte full timeout
+1,QUARTER,408.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,13,12,A. Bailey {/players/b/baileac01.html} enters the game for K. George {/players/g/georgke01.html}
+1,QUARTER,408.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,13,12,W. Clayton {/players/c/claytwa01.html} enters the game for T. Hendricks {/players/h/hendrta01.html}
+1,QUARTER,408.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,13,12,K. Love {/players/l/loveke01.html} enters the game for S. Mykhailiuk {/players/m/mykhasv01.html}
+1,QUARTER,408.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,13,12,B. Sensabaugh {/players/s/sensabr01.html} enters the game for J. Nurkić {/players/n/nurkiju01.html}
+1,QUARTER,408.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,13,12,K. Simpson {/players/s/simpskj01.html} enters the game for C. Sexton {/players/s/sextoco01.html}
+1,QUARTER,400.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,13,14,K. Knueppel {/players/k/knuepko01.html} makes 2-pt jump shot from 10 ft (assist by S. James {/players/j/jamessi01.html})
+1,QUARTER,400.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,13,14,Shooting foul by A. Bailey {/players/b/baileac01.html} (drawn by K. Knueppel {/players/k/knuepko01.html})
+1,QUARTER,400.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,13,14,M. Diabaté {/players/d/diabamo01.html} enters the game for R. Kalkbrenner {/players/k/kalkbry01.html}
+1,QUARTER,400.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,13,15,K. Knueppel {/players/k/knuepko01.html} makes free throw 1 of 1
+1,QUARTER,381.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,16,15,L. Markkanen {/players/m/markkla01.html} makes 3-pt jump shot from 25 ft (assist by K. Love {/players/l/loveke01.html})
+1,QUARTER,372.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,16,15,Shooting foul by W. Clayton {/players/c/claytwa01.html} (drawn by M. Bridges {/players/b/bridgmi02.html})
+1,QUARTER,372.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,16,16,M. Bridges {/players/b/bridgmi02.html} makes free throw 1 of 2
+1,QUARTER,372.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,16,17,M. Bridges {/players/b/bridgmi02.html} makes free throw 2 of 2
+1,QUARTER,359.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,16,17,W. Clayton {/players/c/claytwa01.html} misses 3-pt jump shot from 29 ft
+1,QUARTER,355.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,16,17,Defensive rebound by M. Diabaté {/players/d/diabamo01.html}
+1,QUARTER,347.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,16,19,K. Knueppel {/players/k/knuepko01.html} makes 2-pt jump shot from 4 ft (assist by S. James {/players/j/jamessi01.html})
+1,QUARTER,347.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,16,19,Shooting foul by B. Sensabaugh {/players/s/sensabr01.html} (drawn by K. Knueppel {/players/k/knuepko01.html})
+1,QUARTER,347.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,16,20,K. Knueppel {/players/k/knuepko01.html} makes free throw 1 of 1
+1,QUARTER,334.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,16,20,Shooting foul by K. Knueppel {/players/k/knuepko01.html} (drawn by B. Sensabaugh {/players/s/sensabr01.html})
+1,QUARTER,334.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,16,20,B. Sensabaugh {/players/s/sensabr01.html} misses free throw 1 of 2
+1,QUARTER,334.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,16,20,Offensive rebound by Team
+1,QUARTER,334.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,16,20,T. Mann {/players/m/manntr01.html} enters the game for K. Knueppel {/players/k/knuepko01.html}
+1,QUARTER,334.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,17,20,B. Sensabaugh {/players/s/sensabr01.html} makes free throw 2 of 2
+1,QUARTER,318.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,17,22,M. Bridges {/players/b/bridgmi02.html} makes 2-pt layup from 4 ft
+1,QUARTER,310.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,17,22,K. Love {/players/l/loveke01.html} misses 3-pt jump shot from 27 ft
+1,QUARTER,306.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,17,22,Offensive rebound by K. Love {/players/l/loveke01.html}
+1,QUARTER,303.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,19,22,B. Sensabaugh {/players/s/sensabr01.html} makes 2-pt jump shot from 10 ft (assist by K. Love {/players/l/loveke01.html})
+1,QUARTER,289.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,19,22,Shooting foul by B. Sensabaugh {/players/s/sensabr01.html} (drawn by M. Diabaté {/players/d/diabamo01.html})
+1,QUARTER,289.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,19,23,M. Diabaté {/players/d/diabamo01.html} makes free throw 1 of 2
+1,QUARTER,289.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,19,24,M. Diabaté {/players/d/diabamo01.html} makes free throw 2 of 2
+1,QUARTER,289.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,19,24,L. McNeeley {/players/m/mcneeli01.html} enters the game for S. James {/players/j/jamessi01.html}
+1,QUARTER,273.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,19,24,L. Markkanen {/players/m/markkla01.html} misses 3-pt jump shot from 23 ft
+1,QUARTER,270.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,19,24,Defensive rebound by L. McNeeley {/players/m/mcneeli01.html}
+1,QUARTER,263.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,19,27,M. Bridges {/players/b/bridgmi02.html} makes 3-pt jump shot from 23 ft (assist by L. McNeeley {/players/m/mcneeli01.html})
+1,QUARTER,263.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,19,27,Utah full timeout
+1,QUARTER,237.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,19,27,Shooting foul by K. Simpson {/players/s/simpskj01.html} (drawn by K. Love {/players/l/loveke01.html})
+1,QUARTER,237.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,20,27,K. Love {/players/l/loveke01.html} makes free throw 1 of 2
+1,QUARTER,237.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,21,27,K. Love {/players/l/loveke01.html} makes free throw 2 of 2
+1,QUARTER,214.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,21,30,M. Bridges {/players/b/bridgmi02.html} makes 3-pt jump shot from 23 ft (assist by K. Simpson {/players/s/simpskj01.html})
+1,QUARTER,196.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,21,30,L. Markkanen {/players/m/markkla01.html} misses 3-pt jump shot from 27 ft
+1,QUARTER,196.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,21,30,Defensive rebound by T. Mann {/players/m/manntr01.html}
+1,QUARTER,184.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,21,30,K. Simpson {/players/s/simpskj01.html} misses 3-pt jump shot from 26 ft
+1,QUARTER,181.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,21,30,Defensive rebound by B. Sensabaugh {/players/s/sensabr01.html}
+1,QUARTER,172.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,21,30,Offensive foul by K. Love {/players/l/loveke01.html} (drawn by T. Mann {/players/m/manntr01.html})
+1,QUARTER,172.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,21,30,Turnover by K. Love {/players/l/loveke01.html} (offensive foul)
+1,QUARTER,172.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,21,30,K. Filipowski {/players/f/filipky01.html} enters the game for L. Markkanen {/players/m/markkla01.html}
+1,QUARTER,172.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,21,30,K. George {/players/g/georgke01.html} enters the game for B. Sensabaugh {/players/s/sensabr01.html}
+1,QUARTER,172.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,21,30,C. Sexton {/players/s/sextoco01.html} enters the game for K. Simpson {/players/s/simpskj01.html}
+1,QUARTER,166.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,21,30,Personal foul by K. Filipowski {/players/f/filipky01.html} (drawn by M. Bridges {/players/b/bridgmi02.html})
+1,QUARTER,166.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,21,31,M. Bridges {/players/b/bridgmi02.html} makes free throw 1 of 2
+1,QUARTER,166.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,21,32,M. Bridges {/players/b/bridgmi02.html} makes free throw 2 of 2
+1,QUARTER,144.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,21,32,A. Bailey {/players/b/baileac01.html} misses 2-pt jump shot from 13 ft
+1,QUARTER,142.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,21,32,Defensive rebound by M. Diabaté {/players/d/diabamo01.html}
+1,QUARTER,135.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,21,35,T. Mann {/players/m/manntr01.html} makes 3-pt jump shot from 27 ft (assist by M. Bridges {/players/b/bridgmi02.html})
+1,QUARTER,118.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,23,35,K. Filipowski {/players/f/filipky01.html} makes 2-pt jump shot from 6 ft (assist by K. George {/players/g/georgke01.html})
+1,QUARTER,108.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,23,35,T. Mann {/players/m/manntr01.html} misses 3-pt jump shot from 26 ft
+1,QUARTER,104.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,23,35,Defensive rebound by K. Filipowski {/players/f/filipky01.html}
+1,QUARTER,90.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,25,35,W. Clayton {/players/c/claytwa01.html} makes 2-pt dunk from 3 ft (assist by K. Filipowski {/players/f/filipky01.html})
+1,QUARTER,78.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,25,35,Personal foul by W. Clayton {/players/c/claytwa01.html} (drawn by T. Mann {/players/m/manntr01.html})
+1,QUARTER,78.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,25,36,T. Mann {/players/m/manntr01.html} makes free throw 1 of 2
+1,QUARTER,78.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,25,36,S. Mykhailiuk {/players/m/mykhasv01.html} enters the game for W. Clayton {/players/c/claytwa01.html}
+1,QUARTER,78.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,25,36,J. Nurkić {/players/n/nurkiju01.html} enters the game for K. Love {/players/l/loveke01.html}
+1,QUARTER,78.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,25,36,R. Kalkbrenner {/players/k/kalkbry01.html} enters the game for M. Bridges {/players/b/bridgmi02.html}
+1,QUARTER,78.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,25,36,T. Salaün {/players/s/salauti01.html} enters the game for M. Diabaté {/players/d/diabamo01.html}
+1,QUARTER,78.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,25,37,T. Mann {/players/m/manntr01.html} makes free throw 2 of 2
+1,QUARTER,67.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,25,37,A. Bailey {/players/b/baileac01.html} misses 3-pt jump shot from 26 ft
+1,QUARTER,65.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,25,37,Defensive rebound by T. Mann {/players/m/manntr01.html}
+1,QUARTER,50.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,25,37,C. Sexton {/players/s/sextoco01.html} misses 3-pt jump shot from 25 ft
+1,QUARTER,49.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,25,37,Offensive rebound by Team
+1,QUARTER,35.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,25,39,C. Sexton {/players/s/sextoco01.html} makes 2-pt layup from 3 ft
+1,QUARTER,25.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,25,39,K. George {/players/g/georgke01.html} misses 2-pt jump shot from 11 ft
+1,QUARTER,19.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,25,39,Defensive rebound by T. Mann {/players/m/manntr01.html}
+1,QUARTER,4.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,25,39,Turnover by C. Sexton {/players/s/sextoco01.html} (bad pass; steal by K. George {/players/g/georgke01.html})
+1,QUARTER,0.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,25,39,K. George {/players/g/georgke01.html} misses 3-pt jump shot from 28 ft
+1,QUARTER,0.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,25,39,Offensive rebound by Team
+2,QUARTER,700.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,25,39,Turnover by C. Sexton {/players/s/sextoco01.html} (bad pass)
+2,QUARTER,688.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,25,39,A. Bailey {/players/b/baileac01.html} misses 2-pt jump shot from 5 ft (block by R. Kalkbrenner {/players/k/kalkbry01.html})
+2,QUARTER,684.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,25,39,Defensive rebound by K. Knueppel {/players/k/knuepko01.html}
+2,QUARTER,672.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,25,39,Def 3 sec tech foul by Team
+2,QUARTER,672.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,25,40,C. Sexton {/players/s/sextoco01.html} makes technical free throw
+2,QUARTER,664.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,25,43,K. Knueppel {/players/k/knuepko01.html} makes 3-pt jump shot from 27 ft (assist by C. Sexton {/players/s/sextoco01.html})
+2,QUARTER,650.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,25,43,K. George {/players/g/georgke01.html} misses 3-pt jump shot from 26 ft
+2,QUARTER,647.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,25,43,Defensive rebound by S. James {/players/j/jamessi01.html}
+2,QUARTER,634.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,25,46,K. Knueppel {/players/k/knuepko01.html} makes 3-pt jump shot from 25 ft (assist by S. James {/players/j/jamessi01.html})
+2,QUARTER,633.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,25,46,Utah full timeout
+2,QUARTER,633.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,25,46,T. Hendricks {/players/h/hendrta01.html} enters the game for A. Bailey {/players/b/baileac01.html}
+2,QUARTER,633.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,25,46,L. Markkanen {/players/m/markkla01.html} enters the game for K. Filipowski {/players/f/filipky01.html}
+2,QUARTER,633.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,25,46,P. Connaughton {/players/c/connapa01.html} enters the game for T. Salaün {/players/s/salauti01.html}
+2,QUARTER,623.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,25,46,Turnover by K. George {/players/g/georgke01.html} (bad pass; steal by R. Kalkbrenner {/players/k/kalkbry01.html})
+2,QUARTER,618.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,25,46,S. James {/players/j/jamessi01.html} misses 3-pt jump shot from 25 ft
+2,QUARTER,613.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,25,46,Defensive rebound by L. Markkanen {/players/m/markkla01.html}
+2,QUARTER,607.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,27,46,L. Markkanen {/players/m/markkla01.html} makes 2-pt layup from 2 ft (assist by S. Mykhailiuk {/players/m/mykhasv01.html})
+2,QUARTER,601.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,27,46,Offensive foul by P. Connaughton {/players/c/connapa01.html} (drawn by K. George {/players/g/georgke01.html})
+2,QUARTER,601.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,27,46,Turnover by P. Connaughton {/players/c/connapa01.html} (offensive foul)
+2,QUARTER,590.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,27,46,J. Nurkić {/players/n/nurkiju01.html} misses 3-pt jump shot from 26 ft (block by R. Kalkbrenner {/players/k/kalkbry01.html})
+2,QUARTER,586.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,27,46,Defensive rebound by P. Connaughton {/players/c/connapa01.html}
+2,QUARTER,575.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,27,46,K. Knueppel {/players/k/knuepko01.html} misses 3-pt jump shot from 24 ft
+2,QUARTER,575.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,27,46,Defensive rebound by Team
+2,QUARTER,568.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,27,46,Personal foul by S. James {/players/j/jamessi01.html} (drawn by L. Markkanen {/players/m/markkla01.html})
+2,QUARTER,561.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,27,46,J. Nurkić {/players/n/nurkiju01.html} misses 2-pt layup from 3 ft
+2,QUARTER,561.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,27,46,Defensive rebound by C. Sexton {/players/s/sextoco01.html}
+2,QUARTER,553.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,27,48,K. Knueppel {/players/k/knuepko01.html} makes 2-pt jump shot from 4 ft
+2,QUARTER,539.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,27,48,S. Mykhailiuk {/players/m/mykhasv01.html} misses 3-pt jump shot from 23 ft
+2,QUARTER,535.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,27,48,Defensive rebound by S. James {/players/j/jamessi01.html}
+2,QUARTER,519.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,27,51,P. Connaughton {/players/c/connapa01.html} makes 3-pt jump shot from 23 ft (assist by K. Knueppel {/players/k/knuepko01.html})
+2,QUARTER,510.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,27,51,J. Nurkić {/players/n/nurkiju01.html} misses 3-pt jump shot from 27 ft
+2,QUARTER,507.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,27,51,Offensive rebound by T. Hendricks {/players/h/hendrta01.html}
+2,QUARTER,499.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,27,51,Shooting foul by R. Kalkbrenner {/players/k/kalkbry01.html} (drawn by J. Nurkić {/players/n/nurkiju01.html})
+2,QUARTER,499.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,27,51,J. Nurkić {/players/n/nurkiju01.html} misses free throw 1 of 2
+2,QUARTER,499.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,27,51,Offensive rebound by Team
+2,QUARTER,499.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,27,51,K. Simpson {/players/s/simpskj01.html} enters the game for C. Sexton {/players/s/sextoco01.html}
+2,QUARTER,499.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,28,51,J. Nurkić {/players/n/nurkiju01.html} makes free throw 2 of 2
+2,QUARTER,486.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,28,51,S. James {/players/j/jamessi01.html} misses 3-pt jump shot from 23 ft
+2,QUARTER,486.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,28,51,Offensive rebound by K. Simpson {/players/s/simpskj01.html}
+2,QUARTER,480.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,28,51,Turnover by K. Simpson {/players/s/simpskj01.html} (bad pass; steal by J. Nurkić {/players/n/nurkiju01.html})
+2,QUARTER,475.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,30,51,K. George {/players/g/georgke01.html} makes 2-pt jump shot from 9 ft (assist by L. Markkanen {/players/m/markkla01.html})
+2,QUARTER,475.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,30,51,Shooting foul by P. Connaughton {/players/c/connapa01.html} (drawn by K. George {/players/g/georgke01.html})
+2,QUARTER,475.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,30,51,K. George {/players/g/georgke01.html} misses free throw 1 of 1
+2,QUARTER,472.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,30,51,Defensive rebound by K. Knueppel {/players/k/knuepko01.html}
+2,QUARTER,457.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,30,53,S. James {/players/j/jamessi01.html} makes 2-pt layup from 1 ft
+2,QUARTER,446.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,30,53,L. Markkanen {/players/m/markkla01.html} misses 2-pt jump shot from 20 ft
+2,QUARTER,444.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,30,53,Defensive rebound by K. Knueppel {/players/k/knuepko01.html}
+2,QUARTER,427.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,30,56,S. James {/players/j/jamessi01.html} makes 3-pt jump shot from 24 ft (assist by K. Simpson {/players/s/simpskj01.html})
+2,QUARTER,412.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,32,56,T. Hendricks {/players/h/hendrta01.html} makes 2-pt layup from 2 ft (assist by K. George {/players/g/georgke01.html})
+2,QUARTER,399.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,32,56,Shooting foul by S. Mykhailiuk {/players/m/mykhasv01.html} (drawn by K. Simpson {/players/s/simpskj01.html})
+2,QUARTER,399.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,32,57,K. Simpson {/players/s/simpskj01.html} makes free throw 1 of 2
+2,QUARTER,399.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,32,57,K. Anderson {/players/a/anderky01.html} enters the game for J. Nurkić {/players/n/nurkiju01.html}
+2,QUARTER,399.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,32,57,M. Bridges {/players/b/bridgmi02.html} enters the game for S. James {/players/j/jamessi01.html}
+2,QUARTER,399.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,32,57,M. Diabaté {/players/d/diabamo01.html} enters the game for R. Kalkbrenner {/players/k/kalkbry01.html}
+2,QUARTER,399.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,32,57,T. Mann {/players/m/manntr01.html} enters the game for K. Knueppel {/players/k/knuepko01.html}
+2,QUARTER,399.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,32,58,K. Simpson {/players/s/simpskj01.html} makes free throw 2 of 2
+2,QUARTER,373.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,32,58,L. Markkanen {/players/m/markkla01.html} misses 3-pt jump shot from 27 ft
+2,QUARTER,372.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,32,58,Defensive rebound by M. Bridges {/players/b/bridgmi02.html}
+2,QUARTER,368.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,32,58,K. Simpson {/players/s/simpskj01.html} misses 3-pt jump shot from 25 ft
+2,QUARTER,365.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,32,58,Defensive rebound by K. George {/players/g/georgke01.html}
+2,QUARTER,356.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,32,58,K. George {/players/g/georgke01.html} misses 3-pt jump shot from 26 ft
+2,QUARTER,353.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,32,58,Defensive rebound by K. Simpson {/players/s/simpskj01.html}
+2,QUARTER,331.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,32,60,T. Mann {/players/m/manntr01.html} makes 2-pt jump shot from 13 ft
+2,QUARTER,323.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,34,60,L. Markkanen {/players/m/markkla01.html} makes 2-pt layup from 3 ft (assist by K. Anderson {/players/a/anderky01.html})
+2,QUARTER,323.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,34,60,Violation by Team (def goaltending)
+2,QUARTER,307.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,34,60,T. Mann {/players/m/manntr01.html} misses 3-pt jump shot from 28 ft
+2,QUARTER,306.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,34,60,Offensive rebound by Team
+2,QUARTER,306.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,34,60,Loose ball foul by K. Anderson {/players/a/anderky01.html} (drawn by M. Diabaté {/players/d/diabamo01.html})
+2,QUARTER,295.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,34,60,M. Diabaté {/players/d/diabamo01.html} misses 2-pt layup from 2 ft
+2,QUARTER,293.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,34,60,Defensive rebound by S. Mykhailiuk {/players/m/mykhasv01.html}
+2,QUARTER,288.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,34,60,T. Hendricks {/players/h/hendrta01.html} misses 2-pt layup from 3 ft (block by P. Connaughton {/players/c/connapa01.html})
+2,QUARTER,288.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,34,60,Defensive rebound by M. Diabaté {/players/d/diabamo01.html}
+2,QUARTER,275.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,34,60,M. Bridges {/players/b/bridgmi02.html} misses 3-pt jump shot from 25 ft
+2,QUARTER,271.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,34,60,Defensive rebound by L. Markkanen {/players/m/markkla01.html}
+2,QUARTER,260.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,34,60,L. Markkanen {/players/m/markkla01.html} misses 2-pt jump shot from 7 ft
+2,QUARTER,257.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,34,60,Offensive rebound by L. Markkanen {/players/m/markkla01.html}
+2,QUARTER,257.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,36,60,L. Markkanen {/players/m/markkla01.html} makes 2-pt layup at rim
+2,QUARTER,257.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,36,60,Charlotte full timeout
+2,QUARTER,257.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,36,60,W. Clayton {/players/c/claytwa01.html} enters the game for K. George {/players/g/georgke01.html}
+2,QUARTER,257.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,36,60,C. Williams {/players/w/willico04.html} enters the game for L. Markkanen {/players/m/markkla01.html}
+2,QUARTER,257.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,36,60,K. Knueppel {/players/k/knuepko01.html} enters the game for P. Connaughton {/players/c/connapa01.html}
+2,QUARTER,241.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,36,60,M. Diabaté {/players/d/diabamo01.html} misses 2-pt dunk from 2 ft
+2,QUARTER,238.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,36,60,Defensive rebound by C. Williams {/players/w/willico04.html}
+2,QUARTER,229.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,36,60,W. Clayton {/players/c/claytwa01.html} misses 2-pt layup from 3 ft
+2,QUARTER,227.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,36,60,Defensive rebound by M. Diabaté {/players/d/diabamo01.html}
+2,QUARTER,223.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,36,60,M. Bridges {/players/b/bridgmi02.html} misses 3-pt jump shot from 25 ft
+2,QUARTER,219.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,36,60,Offensive rebound by M. Diabaté {/players/d/diabamo01.html}
+2,QUARTER,206.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,36,60,M. Bridges {/players/b/bridgmi02.html} misses 3-pt jump shot from 34 ft
+2,QUARTER,203.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,36,60,Defensive rebound by T. Hendricks {/players/h/hendrta01.html}
+2,QUARTER,194.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,36,60,Personal foul by M. Diabaté {/players/d/diabamo01.html} (drawn by K. Anderson {/players/a/anderky01.html})
+2,QUARTER,194.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,36,60,C. Sexton {/players/s/sextoco01.html} enters the game for K. Simpson {/players/s/simpskj01.html}
+2,QUARTER,181.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,39,60,S. Mykhailiuk {/players/m/mykhasv01.html} makes 3-pt jump shot from 29 ft
+2,QUARTER,167.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,39,60,Shooting foul by S. Mykhailiuk {/players/m/mykhasv01.html} (drawn by M. Bridges {/players/b/bridgmi02.html})
+2,QUARTER,167.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,39,61,M. Bridges {/players/b/bridgmi02.html} makes free throw 1 of 2
+2,QUARTER,167.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,39,62,M. Bridges {/players/b/bridgmi02.html} makes free throw 2 of 2
+2,QUARTER,150.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,39,62,Offensive foul by K. Anderson {/players/a/anderky01.html} (drawn by M. Diabaté {/players/d/diabamo01.html})
+2,QUARTER,150.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,39,62,Turnover by K. Anderson {/players/a/anderky01.html} (offensive foul)
+2,QUARTER,150.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,39,62,Instant Replay (Challenge: Ruling Stands)
+2,QUARTER,150.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,39,62,Charlotte full timeout
+2,QUARTER,150.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,39,62,K. George {/players/g/georgke01.html} enters the game for T. Hendricks {/players/h/hendrta01.html}
+2,QUARTER,150.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,39,62,L. Markkanen {/players/m/markkla01.html} enters the game for S. Mykhailiuk {/players/m/mykhasv01.html}
+2,QUARTER,138.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,39,64,M. Diabaté {/players/d/diabamo01.html} makes 2-pt dunk from 2 ft (assist by C. Sexton {/players/s/sextoco01.html})
+2,QUARTER,108.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,41,64,L. Markkanen {/players/m/markkla01.html} makes 2-pt jump shot from 5 ft (assist by K. George {/players/g/georgke01.html})
+2,QUARTER,100.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,41,64,Turnover by C. Sexton {/players/s/sextoco01.html} (out of bounds lost ball)
+2,QUARTER,85.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,41,64,Turnover by C. Williams {/players/w/willico04.html} (lost ball; steal by K. Knueppel {/players/k/knuepko01.html})
+2,QUARTER,81.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,41,64,Personal foul by K. George {/players/g/georgke01.html} (drawn by M. Diabaté {/players/d/diabamo01.html})
+2,QUARTER,68.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,41,66,M. Diabaté {/players/d/diabamo01.html} makes 2-pt layup from 3 ft (assist by C. Sexton {/players/s/sextoco01.html})
+2,QUARTER,57.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,43,66,K. George {/players/g/georgke01.html} makes 2-pt layup from 3 ft
+2,QUARTER,37.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,43,66,T. Mann {/players/m/manntr01.html} misses 2-pt jump shot from 7 ft
+2,QUARTER,34.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,43,66,Offensive rebound by M. Diabaté {/players/d/diabamo01.html}
+2,QUARTER,34.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,43,68,M. Diabaté {/players/d/diabamo01.html} makes 2-pt layup at rim
+2,QUARTER,32.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,43,68,Loose ball foul by T. Mann {/players/m/manntr01.html} (drawn by K. George {/players/g/georgke01.html})
+2,QUARTER,32.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,44,68,K. George {/players/g/georgke01.html} makes free throw 1 of 2
+2,QUARTER,32.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,45,68,K. George {/players/g/georgke01.html} makes free throw 2 of 2
+2,QUARTER,14.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,45,68,C. Sexton {/players/s/sextoco01.html} misses 2-pt jump shot from 3 ft (block by C. Williams {/players/w/willico04.html})
+2,QUARTER,11.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,45,68,Offensive rebound by M. Diabaté {/players/d/diabamo01.html}
+2,QUARTER,10.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,45,71,T. Mann {/players/m/manntr01.html} makes 3-pt jump shot from 25 ft (assist by M. Bridges {/players/b/bridgmi02.html})
+2,QUARTER,1.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,48,71,L. Markkanen {/players/m/markkla01.html} makes 3-pt jump shot from 27 ft (assist by W. Clayton {/players/c/claytwa01.html})
+2,QUARTER,0.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,48,71,Team misses heave shot
+2,QUARTER,0.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,48,71,Offensive rebound by Team
+3,QUARTER,705.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,48,73,R. Kalkbrenner {/players/k/kalkbry01.html} makes 2-pt hook shot from 5 ft (assist by M. Bridges {/players/b/bridgmi02.html})
+3,QUARTER,691.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,48,73,L. Markkanen {/players/m/markkla01.html} misses 2-pt layup from 5 ft (block by R. Kalkbrenner {/players/k/kalkbry01.html})
+3,QUARTER,690.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,48,73,Defensive rebound by S. James {/players/j/jamessi01.html}
+3,QUARTER,687.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,48,73,Shooting foul by S. Mykhailiuk {/players/m/mykhasv01.html} (drawn by M. Bridges {/players/b/bridgmi02.html})
+3,QUARTER,687.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,48,74,M. Bridges {/players/b/bridgmi02.html} makes free throw 1 of 2
+3,QUARTER,687.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,48,75,M. Bridges {/players/b/bridgmi02.html} makes free throw 2 of 2
+3,QUARTER,670.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,48,75,K. George {/players/g/georgke01.html} misses 3-pt jump shot from 23 ft
+3,QUARTER,667.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,48,75,Defensive rebound by R. Kalkbrenner {/players/k/kalkbry01.html}
+3,QUARTER,659.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,48,75,Charlotte full timeout
+3,QUARTER,652.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,48,77,M. Bridges {/players/b/bridgmi02.html} makes 2-pt hook shot from 6 ft
+3,QUARTER,641.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,48,77,Shooting foul by M. Bridges {/players/b/bridgmi02.html} (drawn by L. Markkanen {/players/m/markkla01.html})
+3,QUARTER,641.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,49,77,L. Markkanen {/players/m/markkla01.html} makes free throw 1 of 2
+3,QUARTER,641.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,50,77,L. Markkanen {/players/m/markkla01.html} makes free throw 2 of 2
+3,QUARTER,641.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,50,77,Violation by C. Sexton {/players/s/sextoco01.html} (double lane)
+3,QUARTER,641.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,50,77,Violation by J. Nurkić {/players/n/nurkiju01.html} (double lane)
+3,QUARTER,622.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,50,79,C. Sexton {/players/s/sextoco01.html} makes 2-pt jump shot from 7 ft (assist by K. Knueppel {/players/k/knuepko01.html})
+3,QUARTER,605.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,50,79,Turnover by K. George {/players/g/georgke01.html} (bad pass; steal by R. Kalkbrenner {/players/k/kalkbry01.html})
+3,QUARTER,597.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,50,79,C. Sexton {/players/s/sextoco01.html} misses 3-pt jump shot from 27 ft
+3,QUARTER,593.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,50,79,Defensive rebound by J. Nurkić {/players/n/nurkiju01.html}
+3,QUARTER,583.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,52,79,J. Nurkić {/players/n/nurkiju01.html} makes 2-pt jump shot from 7 ft
+3,QUARTER,567.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,52,79,Personal foul by T. Hendricks {/players/h/hendrta01.html} (drawn by C. Sexton {/players/s/sextoco01.html})
+3,QUARTER,557.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,52,79,C. Sexton {/players/s/sextoco01.html} misses 2-pt layup from 4 ft
+3,QUARTER,555.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,52,79,Defensive rebound by L. Markkanen {/players/m/markkla01.html}
+3,QUARTER,552.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,52,79,K. George {/players/g/georgke01.html} misses 2-pt layup from 3 ft
+3,QUARTER,552.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,52,79,Defensive rebound by Team
+3,QUARTER,537.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,52,81,K. Knueppel {/players/k/knuepko01.html} makes 2-pt jump shot from 9 ft (assist by C. Sexton {/players/s/sextoco01.html})
+3,QUARTER,529.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,52,81,Personal foul by S. James {/players/j/jamessi01.html} (drawn by K. George {/players/g/georgke01.html})
+3,QUARTER,520.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,55,81,T. Hendricks {/players/h/hendrta01.html} makes 3-pt jump shot from 24 ft (assist by L. Markkanen {/players/m/markkla01.html})
+3,QUARTER,509.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,55,81,Personal foul by J. Nurkić {/players/n/nurkiju01.html} (drawn by C. Sexton {/players/s/sextoco01.html})
+3,QUARTER,497.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,55,83,M. Bridges {/players/b/bridgmi02.html} makes 2-pt jump shot from 11 ft (assist by C. Sexton {/players/s/sextoco01.html})
+3,QUARTER,484.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,55,83,L. Markkanen {/players/m/markkla01.html} misses 2-pt layup from 3 ft
+3,QUARTER,482.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,55,83,Defensive rebound by S. James {/players/j/jamessi01.html}
+3,QUARTER,470.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,55,83,K. Knueppel {/players/k/knuepko01.html} misses 3-pt jump shot from 25 ft
+3,QUARTER,467.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,55,83,Defensive rebound by L. Markkanen {/players/m/markkla01.html}
+3,QUARTER,463.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,55,83,Personal foul by S. James {/players/j/jamessi01.html} (drawn by K. George {/players/g/georgke01.html})
+3,QUARTER,463.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,55,83,K. Love {/players/l/loveke01.html} enters the game for J. Nurkić {/players/n/nurkiju01.html}
+3,QUARTER,463.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,55,83,M. Diabaté {/players/d/diabamo01.html} enters the game for S. James {/players/j/jamessi01.html}
+3,QUARTER,463.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,55,83,T. Mann {/players/m/manntr01.html} enters the game for R. Kalkbrenner {/players/k/kalkbry01.html}
+3,QUARTER,458.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,57,83,T. Hendricks {/players/h/hendrta01.html} makes 2-pt layup from 2 ft (assist by K. George {/players/g/georgke01.html})
+3,QUARTER,443.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,57,83,K. Knueppel {/players/k/knuepko01.html} misses 3-pt jump shot from 24 ft
+3,QUARTER,443.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,57,83,Offensive rebound by T. Mann {/players/m/manntr01.html}
+3,QUARTER,429.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,57,85,M. Diabaté {/players/d/diabamo01.html} makes 2-pt dunk from 2 ft (assist by C. Sexton {/players/s/sextoco01.html})
+3,QUARTER,412.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,60,85,T. Hendricks {/players/h/hendrta01.html} makes 3-pt jump shot from 24 ft (assist by K. Love {/players/l/loveke01.html})
+3,QUARTER,399.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,60,88,M. Bridges {/players/b/bridgmi02.html} makes 3-pt jump shot from 23 ft (assist by C. Sexton {/players/s/sextoco01.html})
+3,QUARTER,383.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,62,88,K. George {/players/g/georgke01.html} makes 2-pt layup from 1 ft
+3,QUARTER,359.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,62,91,T. Mann {/players/m/manntr01.html} makes 3-pt jump shot from 30 ft
+3,QUARTER,340.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,62,91,L. Markkanen {/players/m/markkla01.html} misses 3-pt jump shot from 25 ft
+3,QUARTER,340.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,62,91,Offensive rebound by K. Love {/players/l/loveke01.html}
+3,QUARTER,334.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,65,91,K. George {/players/g/georgke01.html} makes 3-pt jump shot from 26 ft (assist by K. Love {/players/l/loveke01.html})
+3,QUARTER,320.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,65,91,C. Sexton {/players/s/sextoco01.html} misses 2-pt jump shot from 11 ft
+3,QUARTER,320.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,65,91,Offensive rebound by C. Sexton {/players/s/sextoco01.html}
+3,QUARTER,317.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,65,91,C. Sexton {/players/s/sextoco01.html} misses 2-pt jump shot from 10 ft
+3,QUARTER,315.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,65,91,Defensive rebound by T. Hendricks {/players/h/hendrta01.html}
+3,QUARTER,309.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,67,91,L. Markkanen {/players/m/markkla01.html} makes 2-pt dunk from 1 ft (assist by T. Hendricks {/players/h/hendrta01.html})
+3,QUARTER,301.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,67,93,C. Sexton {/players/s/sextoco01.html} makes 2-pt layup from 2 ft (assist by M. Bridges {/players/b/bridgmi02.html})
+3,QUARTER,283.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,67,93,T. Hendricks {/players/h/hendrta01.html} misses 2-pt layup from 2 ft
+3,QUARTER,283.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,67,93,Offensive rebound by T. Hendricks {/players/h/hendrta01.html}
+3,QUARTER,283.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,67,93,Flagrant foul type 1 by M. Bridges {/players/b/bridgmi02.html} (drawn by T. Hendricks {/players/h/hendrta01.html})
+3,QUARTER,283.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,67,93,Instant Replay (Request: Ruling Stands)
+3,QUARTER,283.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,68,93,T. Hendricks {/players/h/hendrta01.html} makes flagrant free throw 1 of 2
+3,QUARTER,283.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,69,93,T. Hendricks {/players/h/hendrta01.html} makes flagrant free throw 2 of 2
+3,QUARTER,283.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,69,93,A. Bailey {/players/b/baileac01.html} enters the game for T. Hendricks {/players/h/hendrta01.html}
+3,QUARTER,283.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,69,93,K. Filipowski {/players/f/filipky01.html} enters the game for L. Markkanen {/players/m/markkla01.html}
+3,QUARTER,283.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,69,93,B. Sensabaugh {/players/s/sensabr01.html} enters the game for S. Mykhailiuk {/players/m/mykhasv01.html}
+3,QUARTER,283.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,69,93,K. Simpson {/players/s/simpskj01.html} enters the game for C. Sexton {/players/s/sextoco01.html}
+3,QUARTER,269.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,71,93,K. George {/players/g/georgke01.html} makes 2-pt layup from 2 ft (assist by K. Love {/players/l/loveke01.html})
+3,QUARTER,258.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,71,93,T. Mann {/players/m/manntr01.html} misses 2-pt jump shot from 7 ft (block by K. George {/players/g/georgke01.html})
+3,QUARTER,258.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,71,93,Defensive rebound by K. Love {/players/l/loveke01.html}
+3,QUARTER,246.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,71,93,Shooting foul by T. Mann {/players/m/manntr01.html} (drawn by K. George {/players/g/georgke01.html})
+3,QUARTER,246.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,72,93,K. George {/players/g/georgke01.html} makes free throw 1 of 2
+3,QUARTER,246.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,73,93,K. George {/players/g/georgke01.html} makes free throw 2 of 2
+3,QUARTER,233.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,73,95,M. Diabaté {/players/d/diabamo01.html} makes 2-pt layup from 2 ft (assist by M. Bridges {/players/b/bridgmi02.html})
+3,QUARTER,233.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,73,95,Shooting foul by B. Sensabaugh {/players/s/sensabr01.html} (drawn by M. Diabaté {/players/d/diabamo01.html})
+3,QUARTER,233.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,73,96,M. Diabaté {/players/d/diabamo01.html} makes free throw 1 of 1
+3,QUARTER,220.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,73,96,Personal foul by M. Diabaté {/players/d/diabamo01.html} (drawn by K. George {/players/g/georgke01.html})
+3,QUARTER,220.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,74,96,K. George {/players/g/georgke01.html} makes free throw 1 of 2
+3,QUARTER,220.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,75,96,K. George {/players/g/georgke01.html} makes free throw 2 of 2
+3,QUARTER,210.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,75,96,Shooting foul by K. Filipowski {/players/f/filipky01.html} (drawn by M. Bridges {/players/b/bridgmi02.html})
+3,QUARTER,210.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,75,97,M. Bridges {/players/b/bridgmi02.html} makes free throw 1 of 2
+3,QUARTER,210.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,75,98,M. Bridges {/players/b/bridgmi02.html} makes free throw 2 of 2
+3,QUARTER,191.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,75,98,K. George {/players/g/georgke01.html} misses 2-pt layup from 3 ft (block by M. Diabaté {/players/d/diabamo01.html})
+3,QUARTER,188.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,75,98,Defensive rebound by K. Knueppel {/players/k/knuepko01.html}
+3,QUARTER,178.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,75,98,T. Mann {/players/m/manntr01.html} misses 3-pt jump shot from 23 ft
+3,QUARTER,177.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,75,98,Defensive rebound by K. Love {/players/l/loveke01.html}
+3,QUARTER,177.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,75,98,Turnover by K. Love {/players/l/loveke01.html} (bad pass)
+3,QUARTER,177.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,75,98,Utah full timeout
+3,QUARTER,177.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,75,98,L. McNeeley {/players/m/mcneeli01.html} enters the game for K. Knueppel {/players/k/knuepko01.html}
+3,QUARTER,161.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,75,98,M. Bridges {/players/b/bridgmi02.html} misses 3-pt jump shot from 25 ft
+3,QUARTER,158.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,75,98,Defensive rebound by K. George {/players/g/georgke01.html}
+3,QUARTER,152.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,77,98,A. Bailey {/players/b/baileac01.html} makes 2-pt layup from 2 ft (assist by K. George {/players/g/georgke01.html})
+3,QUARTER,140.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,77,98,M. Bridges {/players/b/bridgmi02.html} misses 2-pt layup from 3 ft
+3,QUARTER,139.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,77,98,Defensive rebound by K. Love {/players/l/loveke01.html}
+3,QUARTER,120.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,77,98,K. George {/players/g/georgke01.html} misses 2-pt jump shot from 15 ft
+3,QUARTER,118.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,77,98,Defensive rebound by M. Diabaté {/players/d/diabamo01.html}
+3,QUARTER,108.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,77,100,M. Diabaté {/players/d/diabamo01.html} makes 2-pt layup from 3 ft (assist by K. Simpson {/players/s/simpskj01.html})
+3,QUARTER,98.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,77,100,Shooting foul by T. Mann {/players/m/manntr01.html} (drawn by B. Sensabaugh {/players/s/sensabr01.html})
+3,QUARTER,98.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,77,100,Charlotte full timeout
+3,QUARTER,98.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,77,100,Instant Replay (Challenge: Ruling Stands)
+3,QUARTER,98.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,77,100,W. Clayton {/players/c/claytwa01.html} enters the game for K. George {/players/g/georgke01.html}
+3,QUARTER,98.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,78,100,B. Sensabaugh {/players/s/sensabr01.html} makes free throw 1 of 2
+3,QUARTER,98.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,79,100,B. Sensabaugh {/players/s/sensabr01.html} makes free throw 2 of 2
+3,QUARTER,89.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,79,100,Turnover by K. Simpson {/players/s/simpskj01.html} (bad pass; steal by B. Sensabaugh {/players/s/sensabr01.html})
+3,QUARTER,84.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,79,100,Shooting foul by K. Simpson {/players/s/simpskj01.html} (drawn by B. Sensabaugh {/players/s/sensabr01.html})
+3,QUARTER,84.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,80,100,B. Sensabaugh {/players/s/sensabr01.html} makes free throw 1 of 2
+3,QUARTER,84.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,81,100,B. Sensabaugh {/players/s/sensabr01.html} makes free throw 2 of 2
+3,QUARTER,69.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,81,100,T. Mann {/players/m/manntr01.html} misses 3-pt jump shot from 26 ft
+3,QUARTER,67.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,81,100,Defensive rebound by Team
+3,QUARTER,67.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,81,100,Loose ball foul by T. Mann {/players/m/manntr01.html} (drawn by K. Love {/players/l/loveke01.html})
+3,QUARTER,67.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,81,100,K. Love {/players/l/loveke01.html} misses free throw 1 of 2
+3,QUARTER,67.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,81,100,Offensive rebound by Team
+3,QUARTER,67.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,81,100,C. Sexton {/players/s/sextoco01.html} enters the game for T. Mann {/players/m/manntr01.html}
+3,QUARTER,67.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,82,100,K. Love {/players/l/loveke01.html} makes free throw 2 of 2
+3,QUARTER,49.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,82,100,Turnover by K. Simpson {/players/s/simpskj01.html} (bad pass; steal by K. Filipowski {/players/f/filipky01.html})
+3,QUARTER,45.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,84,100,A. Bailey {/players/b/baileac01.html} makes 2-pt dunk from 1 ft (assist by W. Clayton {/players/c/claytwa01.html})
+3,QUARTER,34.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,84,100,Personal foul by K. Filipowski {/players/f/filipky01.html} (drawn by M. Bridges {/players/b/bridgmi02.html})
+3,QUARTER,34.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,84,101,M. Bridges {/players/b/bridgmi02.html} makes free throw 1 of 2
+3,QUARTER,34.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,84,101,L. Markkanen {/players/m/markkla01.html} enters the game for K. Filipowski {/players/f/filipky01.html}
+3,QUARTER,34.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,84,102,M. Bridges {/players/b/bridgmi02.html} makes free throw 2 of 2
+3,QUARTER,27.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,84,102,Personal foul by K. Simpson {/players/s/simpskj01.html} (drawn by W. Clayton {/players/c/claytwa01.html})
+3,QUARTER,27.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,85,102,W. Clayton {/players/c/claytwa01.html} makes free throw 1 of 2
+3,QUARTER,27.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,86,102,W. Clayton {/players/c/claytwa01.html} makes free throw 2 of 2
+3,QUARTER,4.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,86,102,Turnover by C. Sexton {/players/s/sextoco01.html} (lost ball; steal by A. Bailey {/players/b/baileac01.html})
+3,QUARTER,3.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,86,102,Turnover by A. Bailey {/players/b/baileac01.html} (bad pass; steal by K. Simpson {/players/s/simpskj01.html})
+3,QUARTER,1.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,86,102,K. Simpson {/players/s/simpskj01.html} misses 2-pt layup from 3 ft
+3,QUARTER,1.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,86,102,Offensive rebound by M. Diabaté {/players/d/diabamo01.html}
+3,QUARTER,0.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,86,104,M. Diabaté {/players/d/diabamo01.html} makes 2-pt layup at rim
+4,QUARTER,0.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,86,104,Instant Replay (Request: Ruling Stands)
+4,QUARTER,709.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,86,104,W. Clayton {/players/c/claytwa01.html} misses 2-pt layup from 7 ft (block by R. Kalkbrenner {/players/k/kalkbry01.html})
+4,QUARTER,709.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,86,104,Defensive rebound by C. Sexton {/players/s/sextoco01.html}
+4,QUARTER,709.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,86,104,Personal foul by J. Nurkić {/players/n/nurkiju01.html} (drawn by C. Sexton {/players/s/sextoco01.html})
+4,QUARTER,702.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,86,104,Personal foul by K. Filipowski {/players/f/filipky01.html} (drawn by P. Connaughton {/players/c/connapa01.html})
+4,QUARTER,688.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,86,104,P. Connaughton {/players/c/connapa01.html} misses 3-pt jump shot from 28 ft
+4,QUARTER,685.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,86,104,Defensive rebound by W. Clayton {/players/c/claytwa01.html}
+4,QUARTER,667.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,86,104,L. Markkanen {/players/m/markkla01.html} misses 3-pt jump shot from 25 ft
+4,QUARTER,666.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,86,104,Offensive rebound by Team
+4,QUARTER,661.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,86,104,K. Filipowski {/players/f/filipky01.html} misses 3-pt jump shot from 25 ft
+4,QUARTER,657.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,86,104,Defensive rebound by C. Sexton {/players/s/sextoco01.html}
+4,QUARTER,640.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,86,104,R. Kalkbrenner {/players/k/kalkbry01.html} misses 2-pt layup from 3 ft
+4,QUARTER,638.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,86,104,Defensive rebound by J. Nurkić {/players/n/nurkiju01.html}
+4,QUARTER,632.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,86,104,K. Filipowski {/players/f/filipky01.html} misses 2-pt layup from 3 ft
+4,QUARTER,630.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,86,104,Defensive rebound by R. Kalkbrenner {/players/k/kalkbry01.html}
+4,QUARTER,609.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,86,107,P. Connaughton {/players/c/connapa01.html} makes 3-pt jump shot from 23 ft (assist by K. Knueppel {/players/k/knuepko01.html})
+4,QUARTER,595.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,88,107,L. Markkanen {/players/m/markkla01.html} makes 2-pt dunk from 1 ft (assist by J. Nurkić {/players/n/nurkiju01.html})
+4,QUARTER,578.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,88,107,R. Kalkbrenner {/players/k/kalkbry01.html} misses 2-pt layup from 5 ft
+4,QUARTER,576.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,88,107,Defensive rebound by J. Nurkić {/players/n/nurkiju01.html}
+4,QUARTER,571.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,88,107,Offensive foul by J. Nurkić {/players/n/nurkiju01.html} (drawn by S. James {/players/j/jamessi01.html})
+4,QUARTER,571.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,88,107,Turnover by J. Nurkić {/players/n/nurkiju01.html} (offensive foul)
+4,QUARTER,571.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,88,107,K. George {/players/g/georgke01.html} enters the game for W. Clayton {/players/c/claytwa01.html}
+4,QUARTER,571.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,88,107,T. Hendricks {/players/h/hendrta01.html} enters the game for K. Filipowski {/players/f/filipky01.html}
+4,QUARTER,555.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,88,107,Turnover by C. Sexton {/players/s/sextoco01.html} (bad pass; steal by J. Nurkić {/players/n/nurkiju01.html})
+4,QUARTER,548.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,90,107,K. George {/players/g/georgke01.html} makes 2-pt jump shot from 3 ft (assist by L. Markkanen {/players/m/markkla01.html})
+4,QUARTER,533.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,90,107,P. Connaughton {/players/c/connapa01.html} misses 2-pt layup from 1 ft
+4,QUARTER,533.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,90,107,Offensive rebound by Team
+4,QUARTER,533.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,90,107,Instant Replay (Challenge: Ruling Stands)
+4,QUARTER,533.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,90,107,Utah full timeout
+4,QUARTER,519.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,90,109,S. James {/players/j/jamessi01.html} makes 2-pt layup from 2 ft (assist by C. Sexton {/players/s/sextoco01.html})
+4,QUARTER,503.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,90,109,J. Nurkić {/players/n/nurkiju01.html} misses 2-pt hook shot from 7 ft
+4,QUARTER,501.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,90,109,Offensive rebound by T. Hendricks {/players/h/hendrta01.html}
+4,QUARTER,500.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,92,109,T. Hendricks {/players/h/hendrta01.html} makes 2-pt layup from 1 ft
+4,QUARTER,490.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,92,112,K. Knueppel {/players/k/knuepko01.html} makes 3-pt jump shot from 23 ft (assist by C. Sexton {/players/s/sextoco01.html})
+4,QUARTER,474.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,92,112,Shooting foul by C. Sexton {/players/s/sextoco01.html} (drawn by K. George {/players/g/georgke01.html})
+4,QUARTER,474.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,93,112,K. George {/players/g/georgke01.html} makes free throw 1 of 2
+4,QUARTER,474.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,94,112,K. George {/players/g/georgke01.html} makes free throw 2 of 2
+4,QUARTER,458.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,94,112,P. Connaughton {/players/c/connapa01.html} misses 3-pt jump shot from 23 ft
+4,QUARTER,455.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,94,112,Defensive rebound by J. Nurkić {/players/n/nurkiju01.html}
+4,QUARTER,450.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,94,112,L. Markkanen {/players/m/markkla01.html} misses 3-pt jump shot from 26 ft
+4,QUARTER,450.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,94,112,Defensive rebound by Team
+4,QUARTER,450.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,94,112,Loose ball foul by K. George {/players/g/georgke01.html} (drawn by C. Sexton {/players/s/sextoco01.html})
+4,QUARTER,450.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,94,112,M. Bridges {/players/b/bridgmi02.html} enters the game for P. Connaughton {/players/c/connapa01.html}
+4,QUARTER,429.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,94,114,K. Knueppel {/players/k/knuepko01.html} makes 2-pt jump shot from 9 ft (assist by C. Sexton {/players/s/sextoco01.html})
+4,QUARTER,417.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,94,114,Turnover by K. George {/players/g/georgke01.html} (bad pass; steal by R. Kalkbrenner {/players/k/kalkbry01.html})
+4,QUARTER,412.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,94,116,S. James {/players/j/jamessi01.html} makes 2-pt layup from 3 ft (assist by C. Sexton {/players/s/sextoco01.html})
+4,QUARTER,396.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,94,116,J. Nurkić {/players/n/nurkiju01.html} misses 3-pt jump shot from 26 ft
+4,QUARTER,394.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,94,116,Defensive rebound by M. Bridges {/players/b/bridgmi02.html}
+4,QUARTER,385.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,94,116,K. Knueppel {/players/k/knuepko01.html} misses 2-pt jump shot from 19 ft
+4,QUARTER,381.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,94,116,Defensive rebound by J. Nurkić {/players/n/nurkiju01.html}
+4,QUARTER,371.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,94,116,L. Markkanen {/players/m/markkla01.html} misses 2-pt layup from 3 ft
+4,QUARTER,370.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,94,116,Offensive rebound by L. Markkanen {/players/m/markkla01.html}
+4,QUARTER,370.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,94,116,L. Markkanen {/players/m/markkla01.html} misses 2-pt layup at rim
+4,QUARTER,370.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,94,116,Offensive rebound by Team
+4,QUARTER,370.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,94,116,A. Bailey {/players/b/baileac01.html} enters the game for S. Mykhailiuk {/players/m/mykhasv01.html}
+4,QUARTER,370.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,94,116,K. Love {/players/l/loveke01.html} enters the game for J. Nurkić {/players/n/nurkiju01.html}
+4,QUARTER,370.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,94,116,M. Diabaté {/players/d/diabamo01.html} enters the game for R. Kalkbrenner {/players/k/kalkbry01.html}
+4,QUARTER,370.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,94,116,T. Mann {/players/m/manntr01.html} enters the game for C. Sexton {/players/s/sextoco01.html}
+4,QUARTER,355.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,94,116,K. Love {/players/l/loveke01.html} misses 3-pt jump shot from 26 ft
+4,QUARTER,353.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,94,116,Defensive rebound by M. Bridges {/players/b/bridgmi02.html}
+4,QUARTER,335.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,94,116,M. Bridges {/players/b/bridgmi02.html} misses 2-pt jump shot from 11 ft
+4,QUARTER,333.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,94,116,Offensive rebound by M. Diabaté {/players/d/diabamo01.html}
+4,QUARTER,327.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,94,116,T. Mann {/players/m/manntr01.html} misses 2-pt layup from 3 ft
+4,QUARTER,326.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,94,116,Offensive rebound by M. Diabaté {/players/d/diabamo01.html}
+4,QUARTER,323.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,94,116,M. Bridges {/players/b/bridgmi02.html} misses 3-pt jump shot from 26 ft
+4,QUARTER,323.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,94,116,Defensive rebound by Team
+4,QUARTER,306.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,94,116,L. Markkanen {/players/m/markkla01.html} misses 2-pt hook shot from 7 ft
+4,QUARTER,303.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,94,116,Defensive rebound by M. Diabaté {/players/d/diabamo01.html}
+4,QUARTER,295.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,94,118,M. Bridges {/players/b/bridgmi02.html} makes 2-pt layup from 3 ft
+4,QUARTER,295.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,94,118,Utah full timeout
+4,QUARTER,295.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,94,118,K. Anderson {/players/a/anderky01.html} enters the game for K. George {/players/g/georgke01.html}
+4,QUARTER,295.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,94,118,W. Clayton {/players/c/claytwa01.html} enters the game for T. Hendricks {/players/h/hendrta01.html}
+4,QUARTER,295.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,94,118,K. Filipowski {/players/f/filipky01.html} enters the game for K. Love {/players/l/loveke01.html}
+4,QUARTER,295.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,94,118,C. Williams {/players/w/willico04.html} enters the game for L. Markkanen {/players/m/markkla01.html}
+4,QUARTER,283.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,94,118,A. Bailey {/players/b/baileac01.html} misses 3-pt jump shot from 26 ft
+4,QUARTER,281.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,94,118,Offensive rebound by C. Williams {/players/w/willico04.html}
+4,QUARTER,267.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,94,118,Turnover by Team (shot clock)
+4,QUARTER,244.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,94,118,M. Bridges {/players/b/bridgmi02.html} misses 3-pt jump shot from 27 ft
+4,QUARTER,244.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,94,118,Offensive rebound by Team
+4,QUARTER,244.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,94,118,Turnover by Team (shot clock)
+4,QUARTER,228.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,94,118,K. Anderson {/players/a/anderky01.html} misses 2-pt layup from 5 ft
+4,QUARTER,227.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,94,118,Defensive rebound by K. Knueppel {/players/k/knuepko01.html}
+4,QUARTER,219.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,94,118,M. Bridges {/players/b/bridgmi02.html} misses 2-pt layup from 4 ft
+4,QUARTER,218.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,94,118,Defensive rebound by Team
+4,QUARTER,218.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,94,118,Personal foul by M. Diabaté {/players/d/diabamo01.html} (drawn by C. Williams {/players/w/willico04.html})
+4,QUARTER,218.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,94,118,P. Connaughton {/players/c/connapa01.html} enters the game for M. Bridges {/players/b/bridgmi02.html}
+4,QUARTER,218.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,94,118,M. Plumlee {/players/p/plumlma01.html} enters the game for M. Diabaté {/players/d/diabamo01.html}
+4,QUARTER,205.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,96,118,A. Bailey {/players/b/baileac01.html} makes 2-pt dunk from 1 ft (assist by K. Anderson {/players/a/anderky01.html})
+4,QUARTER,186.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,96,118,K. Knueppel {/players/k/knuepko01.html} misses 3-pt jump shot from 26 ft
+4,QUARTER,184.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,96,118,Defensive rebound by W. Clayton {/players/c/claytwa01.html}
+4,QUARTER,174.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,96,118,K. Filipowski {/players/f/filipky01.html} misses 2-pt dunk from 2 ft
+4,QUARTER,173.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,96,118,Defensive rebound by M. Plumlee {/players/p/plumlma01.html}
+4,QUARTER,173.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,96,118,Turnover by M. Plumlee {/players/p/plumlma01.html} (bad pass)
+4,QUARTER,173.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,96,118,K. Simpson {/players/s/simpskj01.html} enters the game for T. Mann {/players/m/manntr01.html}
+4,QUARTER,161.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,98,118,K. Filipowski {/players/f/filipky01.html} makes 2-pt dunk from 2 ft (assist by A. Bailey {/players/b/baileac01.html})
+4,QUARTER,141.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,98,120,K. Simpson {/players/s/simpskj01.html} makes 2-pt layup from 3 ft
+4,QUARTER,133.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,98,120,A. Bailey {/players/b/baileac01.html} misses 3-pt jump shot from 26 ft
+4,QUARTER,129.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,98,120,Defensive rebound by K. Simpson {/players/s/simpskj01.html}
+4,QUARTER,111.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,98,123,K. Simpson {/players/s/simpskj01.html} makes 3-pt jump shot from 25 ft (assist by K. Knueppel {/players/k/knuepko01.html})
+4,QUARTER,98.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,98,123,Shooting foul by M. Plumlee {/players/p/plumlma01.html} (drawn by K. Anderson {/players/a/anderky01.html})
+4,QUARTER,98.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,98,123,K. Anderson {/players/a/anderky01.html} misses free throw 1 of 2
+4,QUARTER,98.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,98,123,Offensive rebound by Team
+4,QUARTER,98.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,99,123,K. Anderson {/players/a/anderky01.html} makes free throw 2 of 2
+4,QUARTER,98.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,99,123,L. McNeeley {/players/m/mcneeli01.html} enters the game for K. Knueppel {/players/k/knuepko01.html}
+4,QUARTER,92.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,99,123,Personal foul by W. Clayton {/players/c/claytwa01.html} (drawn by K. Simpson {/players/s/simpskj01.html})
+4,QUARTER,75.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,99,126,L. McNeeley {/players/m/mcneeli01.html} makes 3-pt jump shot from 31 ft (assist by K. Simpson {/players/s/simpskj01.html})
+4,QUARTER,55.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,99,126,K. Anderson {/players/a/anderky01.html} misses 2-pt layup from 4 ft
+4,QUARTER,52.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,99,126,Defensive rebound by K. Simpson {/players/s/simpskj01.html}
+4,QUARTER,48.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,99,126,Turnover by K. Simpson {/players/s/simpskj01.html} (lost ball; steal by K. Anderson {/players/a/anderky01.html})
+4,QUARTER,45.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,101,126,K. Anderson {/players/a/anderky01.html} makes 2-pt layup from 3 ft (assist by K. Filipowski {/players/f/filipky01.html})
+4,QUARTER,45.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,101,126,Violation by Team (def goaltending)
+4,QUARTER,28.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,101,126,Offensive foul by L. McNeeley {/players/m/mcneeli01.html} (drawn by K. Anderson {/players/a/anderky01.html})
+4,QUARTER,28.0,CHARLOTTE HORNETS,UTAH JAZZ,CHARLOTTE HORNETS,101,126,Turnover by L. McNeeley {/players/m/mcneeli01.html} (offensive foul)
+4,QUARTER,17.0,UTAH JAZZ,UTAH JAZZ,CHARLOTTE HORNETS,103,126,K. Anderson {/players/a/anderky01.html} makes 2-pt jump shot from 4 ft

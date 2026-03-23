@@ -526,20 +526,30 @@ class PlayByPlaysParser:
 
     def parse(self, play_by_plays, away_team, home_team):
         current_period = 0
+        just_started_period = False
         result = []
         for play_by_play in play_by_plays:
             if play_by_play.is_start_of_period:
-                # Only increment if this is genuinely a new period.
-                # BBRef sometimes emits duplicate/stale period headers (e.g. a "3rd Q"
-                # header appearing inside the 4th quarter section). Guard against this
-                # by checking the header text — if it matches a period <= current, skip it.
-                header_text = play_by_play.timestamp_cell.text_content().strip().lower()
-                candidate_period = self._parse_period_from_header(header_text)
+                header_text      = play_by_play.timestamp_cell.text_content().strip().lower()
+                candidate_period = _parse_period_from_header(header_text)
                 if candidate_period is None or candidate_period > current_period:
-                    current_period += 1
+                    current_period      += 1
+                    just_started_period  = True
             elif play_by_play.has_play_by_play_data:
+                # Rows with 0 seconds remaining that appear immediately after a period
+                # header are carry-overs from the previous period (e.g. instant replays
+                # resolving a play at the buzzer). Reassign them to current_period - 1.
+                timestamp = self.period_timestamp_parser.to_seconds(
+                    timestamp=play_by_play.timestamp
+                )
+                if just_started_period and timestamp == 0.0 and current_period > 1:
+                    effective_period = current_period - 1
+                else:
+                    effective_period    = current_period
+                    just_started_period = False
+
                 result.append(self.format_data(
-                    current_period=current_period,
+                    current_period=effective_period,
                     play_by_play=play_by_play,
                     away_team=away_team,
                     home_team=home_team,

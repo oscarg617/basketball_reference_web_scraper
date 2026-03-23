@@ -531,7 +531,7 @@ class PlayByPlaysParser:
         for play_by_play in play_by_plays:
             if play_by_play.is_start_of_period:
                 header_text      = play_by_play.timestamp_cell.text_content().strip().lower()
-                candidate_period = _parse_period_from_header(header_text)
+                candidate_period = self._parse_period_from_header(header_text)
                 if candidate_period is None or candidate_period > current_period:
                     current_period      += 1
                     just_started_period  = True

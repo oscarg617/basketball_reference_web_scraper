@@ -91,17 +91,17 @@ class HTTPService:
     def play_by_play(self, home_team, day, month, year):
         add_0_if_needed = lambda s: "0" + s if len(s) == 1 else s
 
-        SEASON_2002_START_YEAR = 2001
-        SEASON_2002_START_MONTH = 10
-        SEASON_2002_START_DAY = 30
+        SEASON_2003_START_YEAR = 2002
+        SEASON_2003_START_MONTH = 10
+        SEASON_2003_START_DAY = 28
 
         SEASON_2015_START_YEAR = 2014
         SEASON_2015_START_MONTH = 10
         SEASON_2015_START_DAY = 28
 
         if home_team == Team.CHARLOTTE_HORNETS:
-            if year < SEASON_2002_START_YEAR or (year == SEASON_2002_START_YEAR and month < SEASON_2002_START_MONTH) or \
-               (year == SEASON_2002_START_YEAR and month == SEASON_2002_START_MONTH and day < SEASON_2002_START_DAY):
+            if year < SEASON_2003_START_YEAR or (year == SEASON_2003_START_YEAR and month < SEASON_2003_START_MONTH) or \
+               (year == SEASON_2003_START_YEAR and month == SEASON_2003_START_MONTH and day < SEASON_2003_START_DAY):
                 home_team = Team.CHARLOTTE_HORNETS_OLD
             
         if home_team == Team.CHARLOTTE_BOBCATS:
